@@ -1,0 +1,304 @@
+localTime              windowname
+2017-06-05 14:29:28,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:29:35,    树视图
+2017-06-05 14:29:35,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:29:37,    选择E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:29:44,    FolderView
+2017-06-05 14:29:44,    选择E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:29:46,    FolderView
+2017-06-05 14:29:46,    dist
+2017-06-05 14:29:46,    地址: E:\pythonWork\p1\dist
+2017-06-05 14:29:48,    ShellView
+2017-06-05 14:29:53,    2017-06-05 - 记事本
+2017-06-05 14:29:53,    FolderView
+2017-06-05 14:29:54,    360免费WiFi
+2017-06-05 14:29:54,    2017-06-05 - 记事本
+2017-06-05 14:29:55,    FolderView
+2017-06-05 14:29:55,    2017-06-05 - 记事本
+2017-06-05 14:29:55,    FolderView
+2017-06-05 14:29:55,    keyboard
+2017-06-05 14:29:55,    地址: E:\pythonWork\p1\dist\log\keyboard
+2017-06-05 14:29:58,    地址: E:\pythonWork\p1\dist\log
+2017-06-05 14:30:00,    地址: E:\pythonWork\p1\dist
+2017-06-05 14:30:16,    地址: E:\pythonWork\p1
+2017-06-05 14:30:20,    FolderView
+2017-06-05 14:30:20,    p1
+2017-06-05 14:30:20,    树视图
+2017-06-05 14:30:21,    p1
+2017-06-05 14:30:21,    FolderView
+2017-06-05 14:30:23,    运行中的应用程序
+2017-06-05 14:30:24,    FolderView
+2017-06-05 14:30:24,    运行中的应用程序
+2017-06-05 14:30:27,    FolderView
+2017-06-05 14:30:27,    p1
+2017-06-05 14:30:27,    开发二组
+2017-06-05 14:30:27,    FolderView
+2017-06-05 14:30:27,    运行中的应用程序
+2017-06-05 14:30:29,    FolderView
+2017-06-05 14:30:29,    树视图
+2017-06-05 14:30:29,    李友伟
+2017-06-05 14:30:35,    刘婷美java
+2017-06-05 14:30:36,    TXMenuWindow
+2017-06-05 14:30:37,    刘婷美java
+2017-06-05 14:31:15,    p1
+2017-06-05 14:31:15,    FolderView
+2017-06-05 14:31:15,    p1
+2017-06-05 14:31:15,    FolderView
+2017-06-05 14:31:15,    360免费WiFi
+2017-06-05 14:31:15,    FolderView
+2017-06-05 14:31:15,    开发二组
+2017-06-05 14:31:16,    刘婷美java
+2017-06-05 14:31:17,    FolderView
+2017-06-05 14:31:17,    p1
+2017-06-05 14:31:17,    地址区段工具栏
+2017-06-05 14:31:17,    开发二组
+2017-06-05 14:31:17,    p1
+2017-06-05 14:31:17,    FolderView
+2017-06-05 14:31:17,    运行中的应用程序
+2017-06-05 14:31:19,    FolderView
+2017-06-05 14:31:19,    开发二组
+2017-06-05 14:31:19,    FolderView
+2017-06-05 14:31:20,    开发二组
+2017-06-05 14:31:20,    FolderView
+2017-06-05 14:31:21,    p1
+2017-06-05 14:31:21,    地址: E:\pythonWork\p1
+2017-06-05 14:31:47,    log
+2017-06-05 14:31:47,    FolderView
+2017-06-05 14:31:47,    运行中的应用程序
+2017-06-05 14:31:57,    地址区段工具栏
+2017-06-05 14:31:57,    log
+2017-06-05 14:31:57,    FolderView
+2017-06-05 14:31:57,    log
+2017-06-05 14:31:57,    地址: E:\pythonWork\p1\dist\log
+2017-06-05 14:32:13,    2017-06-05 - 记事本
+2017-06-05 14:32:14,    FolderView
+2017-06-05 14:32:14,    keyboard
+2017-06-05 14:32:14,    地址: E:\pythonWork\p1\dist\log\keyboard
+2017-06-05 14:32:15,    keyboard
+2017-06-05 14:32:15,    FolderView
+2017-06-05 14:32:16,    keyboard
+2017-06-05 14:32:16,    FolderView
+2017-06-05 14:32:16,    运行中的应用程序
+2017-06-05 14:32:18,    FolderView
+2017-06-05 14:32:18,    keyboard
+2017-06-05 14:32:18,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 14:32:19,    FolderView
+2017-06-05 14:32:19,    运行中的应用程序
+2017-06-05 14:32:20,    FolderView
+2017-06-05 14:32:21,    keyboard
+2017-06-05 14:32:21,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 14:32:22,    FolderView
+2017-06-05 14:32:22,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 14:32:29,    FolderView
+2017-06-05 14:32:29,    keyboard
+2017-06-05 14:32:29,    地址: E:\pythonWork\p1\dist\log\keyboard
+2017-06-05 14:32:31,    地址: E:\pythonWork\p1\dist
+2017-06-05 14:32:34,    地址: E:\pythonWork\p1\dist\log
+2017-06-05 14:32:41,    2017-06-05 - 记事本
+2017-06-05 14:32:41,    FolderView
+2017-06-05 14:32:41,    2017-06-05 - 记事本
+2017-06-05 14:32:41,    FolderView
+2017-06-05 14:32:42,    keyboard
+2017-06-05 14:32:42,    地址: E:\pythonWork\p1\dist\log\keyboard
+2017-06-05 14:32:42,    keyboard
+2017-06-05 14:32:42,    FolderView
+2017-06-05 14:32:42,    运行中的应用程序
+2017-06-05 14:32:44,    FolderView
+2017-06-05 14:32:44,    运行中的应用程序
+2017-06-05 14:32:46,    FolderView
+2017-06-05 14:32:46,    keyboard
+2017-06-05 14:32:46,    FolderView
+2017-06-05 14:32:46,    选择E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:32:46,    FolderView
+2017-06-05 14:32:47,    选择E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:49:11,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:49:25,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:55:13,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:55:14,    FolderView
+2017-06-05 14:55:15,    PyCharm Community Edition 2017.1.3
+2017-06-05 14:55:15,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:55:17,    pythonWork - [E:\pythonWork] - PyCharm Community Edition 2017.1.3
+2017-06-05 14:55:17,    dist
+2017-06-05 14:55:17,    地址: E:\pythonWork\p1\dist
+2017-06-05 14:55:26,    2017-06-05.txt - 记事本
+2017-06-05 14:55:29,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:55:29,    2017-06-05.txt - 记事本
+2017-06-05 14:55:30,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:55:30,    keyboard
+2017-06-05 14:55:32,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:55:32,    操作中心
+2017-06-05 14:55:33,    系统时钟, 14:55, ?2017/?6/?5
+2017-06-05 14:55:33,    用户显示的通知区域
+2017-06-05 14:55:33,    运行中的应用程序
+2017-06-05 14:55:34,    FolderView
+2017-06-05 14:55:59,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 14:55:59,    FolderView
+2017-06-05 14:56:00,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 14:56:00,    FolderView
+2017-06-05 14:56:00,    此电脑
+2017-06-05 14:56:00,    地址: 此电脑
+2017-06-05 14:56:00,    地址区段工具栏
+2017-06-05 14:56:01,    树视图
+2017-06-05 14:56:01,    此电脑
+2017-06-05 14:56:02,    注册表编辑器
+2017-06-05 14:56:10,    Suggest
+2017-06-05 14:56:12,    开始 - 此电脑
+2017-06-05 14:56:12,    ShellView
+2017-06-05 14:56:13,    树视图
+2017-06-05 14:56:40,    地址: search-ms:displayname=“此电脑”中的搜索结果&crumb=System.Generic.String：开始&crumb=location:%3A%3A{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+2017-06-05 14:56:40,    开始 - “此电脑”中的搜索结果
+2017-06-05 14:56:54,    注册表编辑器
+2017-06-05 14:56:54,    FolderView
+2017-06-05 14:56:54,    运行中的应用程序
+2017-06-05 14:56:54,    FolderView
+2017-06-05 14:56:54,    注册表编辑器
+2017-06-05 14:56:55,    开始 - “此电脑”中的搜索结果
+2017-06-05 14:56:55,    FolderView
+2017-06-05 14:56:55,    操作中心
+2017-06-05 14:56:55,    系统时钟, 14:56, ?2017/?6/?5
+2017-06-05 14:56:55,    FolderView
+2017-06-05 14:57:01,    运行中的应用程序
+2017-06-05 14:57:04,    FolderView
+2017-06-05 14:57:15,    2017-06-05.txt - 记事本
+2017-06-05 14:57:19,    FolderView
+2017-06-05 14:57:20,    360免费WiFi
+2017-06-05 14:57:20,    FolderView
+2017-06-05 14:57:20,    2017-06-05.txt - 记事本
+2017-06-05 14:57:22,    FolderView
+2017-06-05 14:57:25,    运行中的应用程序
+2017-06-05 14:57:28,    FolderView
+2017-06-05 14:57:32,    E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:57:37,    选择E:\pythonWork\p1\dist\hok.exe
+2017-06-05 14:57:37,    FolderView
+2017-06-05 14:57:38,    运行中的应用程序
+2017-06-05 14:57:39,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:57:39,    Tip of the Day
+2017-06-05 14:57:42,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:57:56,    运行中的应用程序
+2017-06-05 14:58:09,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 14:58:09,    注册表编辑器
+2017-06-05 15:00:30,    运行中的应用程序
+2017-06-05 15:00:30,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 15:00:30,    注册表编辑器
+2017-06-05 15:00:30,    刘婷美java
+2017-06-05 15:00:56,    注册表编辑器
+2017-06-05 15:00:56,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 15:00:57,    运行中的应用程序
+2017-06-05 15:01:00,    pythonWork - [E:\pythonWork] - t1.py - PyCharm Community Edition 2017.1.3
+2017-06-05 15:01:18,    运行中的应用程序
+2017-06-05 15:01:24,    zx - [E:\ideaWork\zx] - JdController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:01:25,    zx - [E:\ideaWork\zx] - InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:01:32,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:02,    运行中的应用程序
+2017-06-05 15:03:02,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:03,    用户显示的通知区域
+2017-06-05 15:03:04,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:04,    开发二组
+2017-06-05 15:03:05,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:06,    运行中的应用程序
+2017-06-05 15:03:12,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:13,    运行中的应用程序
+2017-06-05 15:03:14,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:15,    无标题 - UC浏览器
+2017-06-05 15:03:15,    Chrome Legacy Window
+2017-06-05 15:03:16,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:16,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:16,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:26,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:26,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:26,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:26,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:26,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:26,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:26,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:26,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:26,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:26,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:46,    Chrome Legacy Window
+2017-06-05 15:03:46,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:47,    Chrome Legacy Window
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:51,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:03:51,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:03:52,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:52,    Chrome Legacy Window
+2017-06-05 15:03:52,    UC导航_极速上网体验 - UC浏览器
+2017-06-05 15:03:53,    将自己的python程序打包成exe(秀同学一脸呐) - MrLevo520的博客 - 博客频道 - CSDN.NET - UC浏览器
+2017-06-05 15:04:07,    Chrome Legacy Window
+2017-06-05 15:04:19,    Python:监控键盘输入、鼠标操作，并将捕获到的信息记录到文件中 - Socrates专栏，最新文章发布在:http://blog.csdn.net/dyx1024 - ITeye技术网站 - UC浏览器
+2017-06-05 15:04:19,    zx - [E:\ideaWork\zx] - [zx] - ...\src\main\java\com\zx\controller\rong360\InsureController.java - IntelliJ IDEA 2017.1.3
+2017-06-05 15:04:19,    Python:监控键盘输入、鼠标操作，并将捕获到的信息记录到文件中 - Socrates专栏，最新文章发布在:http://blog.csdn.net/dyx1024 - ITeye技术网站 - UC浏览器
+2017-06-05 15:04:20,    python 记录键盘输入_百度搜索 - UC浏览器
+2017-06-05 15:04:23,    Chrome Legacy Window
+2017-06-05 15:04:37,    pyHook监听用户鼠标、键盘事件 - 开源中国社区 - UC浏览器
+2017-06-05 15:04:37,    添加书签
+2017-06-05 15:04:39,    Chrome Legacy Window
+2017-06-05 15:04:52,    pyHook监听用户鼠标、键盘事件 - 开源中国社区 - UC浏览器
+2017-06-05 15:04:52,    运行中的应用程序
+2017-06-05 15:04:53,    操作中心
+2017-06-05 15:04:53,    FolderView
+2017-06-05 15:04:55,    系统时钟, 15:04, ?2017/?6/?5
+2017-06-05 15:04:55,    操作中心
+2017-06-05 15:04:55,    系统时钟, 15:04, ?2017/?6/?5
+2017-06-05 15:04:55,    用户显示的通知区域
+2017-06-05 15:04:56,    FolderView
+2017-06-05 15:04:56,    开发二组
+2017-06-05 15:04:56,    FolderView
+2017-06-05 15:04:58,    此电脑
+2017-06-05 15:04:58,    地址: 此电脑
+2017-06-05 15:04:59,    此电脑
+2017-06-05 15:05:17,    E:\pythonWork\p1\dist\1.vbs - Sublime Text (UNREGISTERED)
+2017-06-05 15:05:26,    C:\Python27\Lib\mimetypes.py - Sublime Text (UNREGISTERED)
+2017-06-05 15:05:27,    FolderView
+2017-06-05 15:05:28,    dist
+2017-06-05 15:05:28,    地址: E:\pythonWork\p1\dist
+2017-06-05 15:05:49,    1.vbs - 记事本
+2017-06-05 15:05:49,    FolderView
+2017-06-05 15:05:51,    1.vbs - 记事本
+2017-06-05 15:05:51,    FolderView
+2017-06-05 15:05:53,    1.vbs - 记事本
+2017-06-05 15:05:57,    记事本
+2017-06-05 15:05:58,    保存(&S)
+2017-06-05 15:05:58,    树视图
+2017-06-05 15:06:00,    向上一级区段工具栏
+2017-06-05 15:06:00,    导航按钮
+2017-06-05 15:06:00,    FolderView
+2017-06-05 15:06:01,    开发二组
+2017-06-05 15:06:01,    FolderView
+2017-06-05 15:06:01,    运行中的应用程序
+2017-06-05 15:06:02,    FolderView
+2017-06-05 15:06:02,    开发二组
+2017-06-05 15:06:02,    树视图
+2017-06-05 15:06:02,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 15:07:01,    dist
+2017-06-05 15:07:01,    FolderView
+2017-06-05 15:07:01,    C:\WINDOWS\system32\cmd.exe
+2017-06-05 15:07:05,    FolderView
+2017-06-05 15:07:05,    dist
+2017-06-05 15:07:06,    FolderView
+2017-06-05 15:07:06,    开发二组
+2017-06-05 15:07:07,    FolderView
+2017-06-05 15:07:07,    在这里输入你要搜索的内容
+2017-06-05 15:07:07,    开始
+2017-06-05 15:07:08,    启动
+2017-06-05 15:12:36,    E:\pythonWork\p1\dist\hok.exe

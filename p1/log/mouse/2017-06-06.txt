@@ -1,0 +1,181 @@
+localTime              windowname
+2017-06-06 09:54:12,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:54:17,    用户显示的通知区域
+2017-06-06 09:54:18,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:54:18,    开发二组
+2017-06-06 09:54:22,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:54:22,    系统时钟, 9:54, ?2017/?6/?6
+2017-06-06 09:54:23,    操作中心
+2017-06-06 09:54:23,    FolderView
+2017-06-06 09:54:24,    运行中的应用程序
+2017-06-06 09:54:26,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:54:34,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:54:38,    运行中的应用程序
+2017-06-06 09:54:39,    操作中心
+2017-06-06 09:54:39,    FolderView
+2017-06-06 09:54:41,    地址: 此电脑
+2017-06-06 09:54:41,    树视图
+2017-06-06 09:54:47,    地址: E:\
+2017-06-06 09:54:47,    地址: 此电脑
+2017-06-06 09:54:54,    地址: E:\ideaWork
+2017-06-06 09:54:54,    地址: E:\
+2017-06-06 09:55:02,    E:\pythonWork\p1\log\keyboard\2017-06-06.txt - Sublime Text (UNREGISTERED)
+2017-06-06 09:55:05,    C:\Python27\Lib\mimetypes.py - Sublime Text (UNREGISTERED)
+2017-06-06 09:55:06,    FolderView
+2017-06-06 09:55:07,    keyboard
+2017-06-06 09:55:07,    地址: E:\pythonWork\p1\log\keyboard
+2017-06-06 09:55:11,    2017-06-06.txt - 记事本
+2017-06-06 09:55:11,    keyboard
+2017-06-06 09:55:11,    FolderView
+2017-06-06 09:55:12,    keyboard
+2017-06-06 09:55:12,    2017-06-06.txt - 记事本
+2017-06-06 09:55:13,    FolderView
+2017-06-06 09:55:16,    用户显示的通知区域
+2017-06-06 09:55:18,    FolderView
+2017-06-06 09:55:18,    keyboard
+2017-06-06 09:55:18,    2017-06-06.txt - 记事本
+2017-06-06 09:55:18,    开发二组
+2017-06-06 09:55:18,    2017-06-06.txt - 记事本
+2017-06-06 09:55:18,    开发二组
+2017-06-06 09:55:23,    2017-06-06.txt - 记事本
+2017-06-06 09:55:31,    FolderView
+2017-06-06 09:55:32,    keyboard
+2017-06-06 09:55:32,    地址: E:\pythonWork\p1\log\keyboard
+2017-06-06 09:55:32,    树视图
+2017-06-06 09:55:32,    keyboard
+2017-06-06 09:55:32,    FolderView
+2017-06-06 09:55:32,    运行中的应用程序
+2017-06-06 09:55:33,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:55:36,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:55:50,    运行中的应用程序
+2017-06-06 09:55:52,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:55:53,    运行中的应用程序
+2017-06-06 09:55:53,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:55:54,    运行中的应用程序
+2017-06-06 09:55:55,    操作中心
+2017-06-06 09:55:55,    系统时钟, 9:55, ?2017/?6/?6
+2017-06-06 09:55:55,    FolderView
+2017-06-06 09:55:56,    运行中的应用程序
+2017-06-06 09:55:58,    roomLoan - [E:\ideaWork\roomLoan] - HouseMessageMapper.java - IntelliJ IDEA 2017.1.3
+2017-06-06 09:56:00,    运行中的应用程序
+2017-06-06 09:56:01,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:56:04,    Settings
+2017-06-06 09:56:41,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:56:41,    Settings
+2017-06-06 09:56:42,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 09:56:46,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:10,    2017-06-06.txt: Reload or Convert to GBK
+2017-06-06 09:57:16,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:18,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-05.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:24,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:33,    pythonWork - [E:\pythonWork] - ...\p1\log\mouse\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:37,    2017-06-06.txt: Reload or Convert to GBK
+2017-06-06 09:57:38,    pythonWork - [E:\pythonWork] - ...\p1\log\mouse\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:45,    用户显示的通知区域
+2017-06-06 09:57:46,    系统时钟, 9:57, ?2017/?6/?6
+2017-06-06 09:57:46,    用户显示的通知区域
+2017-06-06 09:57:48,    溢出通知区域
+2017-06-06 09:57:48,    pythonWork - [E:\pythonWork] - ...\p1\log\mouse\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 09:57:56,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:01:55,    360免费WiFi
+2017-06-06 10:01:55,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:01:55,    roomLoan - [E:\ideaWork\roomLoan] - HouseMessageMapper.java - IntelliJ IDEA 2017.1.3
+2017-06-06 10:01:55,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:09,    pythonWork - [E:\pythonWork] - ...\p1\t1.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:12,    pythonWork - [E:\pythonWork] - ...\p1\t2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:14,    pythonWork - [E:\pythonWork] - ...\p1\t1.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:51,    pythonWork - [E:\pythonWork] - ...\p1\t2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:52,    pythonWork - [E:\pythonWork] - ...\p1\t1.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:02:59,    pythonWork - [E:\pythonWork] - ...\p1\t2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:03:00,    pythonWork - [E:\pythonWork] - ...\p1\test.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 10:03:02,    pythonWork - [E:\pythonWork] - ...\p1\t2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:03:03,    pythonWork - [E:\pythonWork] - ...\p1\p3.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:03:41,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:04:45,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:05:02,    pythonWork - [E:\pythonWork] - ...\p1\t1.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:05:04,    pythonWork - [E:\pythonWork] - ...\p1\t2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:05:06,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:09:14,    pythonWork - [E:\pythonWork] - ...\p1\p3.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:09:14,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:05,    pythonWork - [E:\pythonWork] - ...\p1\log\keyboard\2017-06-06.txt - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:11,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:51,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:57,    pythonWork - [E:\pythonWork] - C:\Python27\Lib\smtplib.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:57,    pythonWork - [E:\pythonWork] - ...\p1\p3.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:10:59,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:13:35,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:13:40,    运行中的应用程序
+2017-06-06 10:13:41,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:13:41,    运行中的应用程序
+2017-06-06 10:13:42,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:13:42,    开发二组
+2017-06-06 10:13:48,    刘婷美java
+2017-06-06 10:13:58,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:19:06,    刘婷美java
+2017-06-06 10:19:06,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:19:06,    刘婷美java
+2017-06-06 10:19:07,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:19:18,    刘婷美java
+2017-06-06 10:19:20,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:21:11,    运行中的应用程序
+2017-06-06 10:21:11,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:21:12,    运行中的应用程序
+2017-06-06 10:21:12,    用户显示的通知区域
+2017-06-06 10:21:13,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:21:13,    刘婷美java
+2017-06-06 10:21:14,    TXMenuWindow
+2017-06-06 10:21:16,    刘婷美java
+2017-06-06 10:21:16,    Microsoft Edge
+2017-06-06 10:21:25,    运行中的应用程序
+2017-06-06 10:21:31,    Microsoft Edge
+2017-06-06 10:21:47,    QQ邮箱 - 收件箱 和 1 个其他页面 ?- Microsoft Edge
+2017-06-06 10:21:47,    Microsoft Edge
+2017-06-06 10:21:47,    QQ邮箱 - 收件箱 和 1 个其他页面 ?- Microsoft Edge
+2017-06-06 10:21:47,    Microsoft Edge
+2017-06-06 10:21:48,    运行中的应用程序
+2017-06-06 10:21:50,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:21:54,    运行中的应用程序
+2017-06-06 10:21:56,    Microsoft Edge
+2017-06-06 10:22:00,    运行中的应用程序
+2017-06-06 10:22:01,    Microsoft Edge
+2017-06-06 10:22:05,    运行中的应用程序
+2017-06-06 10:22:06,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:25:05,    用户显示的通知区域
+2017-06-06 10:25:07,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:25:07,    房2贷项目
+2017-06-06 10:25:46,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:26:41,    Rename
+2017-06-06 10:26:42,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:26:42,    Rename
+2017-06-06 10:26:45,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:26:47,    Rename
+2017-06-06 10:26:48,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:27:44,    运行中的应用程序
+2017-06-06 10:27:44,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:28:41,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:28:52,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:30:44,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:30:48,    运行中的应用程序
+2017-06-06 10:30:48,    运行中的应用程序
+2017-06-06 10:30:48,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:30:48,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:30:51,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:30:51,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:31:01,    运行中的应用程序
+2017-06-06 10:31:01,    运行中的应用程序
+2017-06-06 10:31:01,    Microsoft Edge
+2017-06-06 10:31:01,    Microsoft Edge
+2017-06-06 10:31:19,    运行中的应用程序
+2017-06-06 10:31:19,    运行中的应用程序
+2017-06-06 10:31:20,    页面载入出错 - Mozilla Firefox
+2017-06-06 10:31:20,    页面载入出错 - Mozilla Firefox
+2017-06-06 10:31:21,    运行中的应用程序
+2017-06-06 10:31:21,    运行中的应用程序
+2017-06-06 10:31:26,    Microsoft Edge
+2017-06-06 10:31:26,    Microsoft Edge
+2017-06-06 10:31:26,    运行中的应用程序
+2017-06-06 10:31:26,    运行中的应用程序
+2017-06-06 10:31:27,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:31:27,    pythonWork - [E:\pythonWork] - ...\p1\hok.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:31:29,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
+2017-06-06 10:31:29,    pythonWork - [E:\pythonWork] - ...\p1\p2.py - PyCharm Community Edition 2017.1.3
